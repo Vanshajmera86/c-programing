@@ -1,0 +1,14 @@
+
+ Loop : It is a specific task which repeats again and again is called a loop.
+
+ In C Programming, we have 3 types of Loop.
+
+ 1) while loop
+ 2) do..while loop
+ 3) for loop
+
+ 3 important facts in Loop.
+
+ 1) initialization
+ 2) Condition
+ 3) Updation
